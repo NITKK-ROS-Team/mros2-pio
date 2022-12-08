@@ -1,4 +1,0 @@
-[submodule "embeddedRTPS"]
-	path = src/embeddedRTPS
-	url = https://github.com/mROS-base/embeddedRTPS.git
-	branch = mros2
